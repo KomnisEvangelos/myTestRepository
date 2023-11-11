@@ -17,5 +17,10 @@ public class MainActivity extends AppCompatActivity {
         //some well-written code
     }
 
+    private void myFunction2(){
+
+        //some well-written code
+    }
+
 
 }
