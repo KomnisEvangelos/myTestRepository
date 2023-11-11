@@ -16,10 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
         //some well-written code
     }
-    private void myFunction5(){
+
+    private void myFunction7(){
 
         //some well-written code
     }
-
 
 }
